@@ -37,15 +37,15 @@ The dataset contains coffee shop transactions, including transaction date, trans
 
 ### Monthly Revenue
 
-![Monthly Revenue](02_sales_analysis.sql/MonthlyRevenue.jpg)
+![Monthly Revenue](02_sales_analysis/monthly_revenue.jpg)
 
 ### Revenue by Store
 
-![Revenue by Store](screenshots/revenue_by_store.jpg)
+![Revenue by Store](02_sales_analysis/revenue_by_store.jpg)
 
 ### Top Products
 
-![Top Products](screenshots/top_products.jpg)
+![Top Products](03_product_analysis/top_products.jpg)
 
 ## Key Insights
 
